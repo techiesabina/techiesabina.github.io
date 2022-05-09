@@ -1,2 +1,3 @@
 # techiesabina.github.io
-Navigate to the site: https://techiesabina.github.io/
+Navigate to the site:
+%md <a href="https://techiesabina.github.io/" target="_blank">Sabina's Github</a>
